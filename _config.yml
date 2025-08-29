@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Nuo(Kelly) Xu/Personal Website"
+title                    : "Nuo(Kelly) Xu / Personal Website"
 title_separator          : "-"
 name                     : &name "Nuo(Kelly) Xu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "chuchukelly/chuchukelly.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_63778.png"
   name             : "Nuo(Kelly) Xu"
   #pronouns         : # example: "she/her"  
   bio              : "Always learning. Always iterating."
