@@ -12,5 +12,6 @@ Hi, I’m Nuo (Kelly) Xu, an undergraduate student at Rutgers University–New B
 
 You can find my CV here: [Kelly Xu CV](../assets/Kelly_Xu_CV.pdf).
 
-Publication & Manuscript
+# Publication & Manuscript
 1. Beauty is in the Eye of the Beholder: Uncovering Aesthetic Bias in Multimodal Perception and Generation (Under review at AAAI 2026) [PDF](../assets/Beauty_is_in_the_Eye_of_.pdf).
+2. Differential Privacy in Applied Social Science Setting [PDF](../assets/Differential_Privacy_in_Applied_Social_Science.pdf)
