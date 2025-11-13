@@ -18,4 +18,4 @@ You can find my CV here: [Kelly Xu CV](../assets/Nuo_XU_CV.pdf).
 *(Submitted to ACL)* · [**PDF**](../assets/Beauty_is_in_the_Eye_of_.pdf)
 
 **Differential Privacy in Applied Social Science Setting**  
-*(Unpublished Manuscript)* · [**PDF**](../assets/Differential_Privacy_Applied_Social_Science.pdf)
+*(Unpublished Manuscript)* · [**PDF**](../assets/Differential_Privacy_in_Applied_Social_Science.pdf)
