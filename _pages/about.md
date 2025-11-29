@@ -15,7 +15,7 @@ You can find my CV here: [Kelly Xu CV](../assets/Nuo_XU_CV.pdf).
 # Publication & Manuscript
 
 **Beauty is in the Eye of the Beholder: Uncovering Aesthetic Bias in Multimodal Perception and Generation**  
-*(Submitted to ACL)* · [**PDF**](../assets/Beauty_is_in_the_Eye_of_.pdf)
+*(Submitted to ACL)* · [**PDF**](../assets/Beauty_is_in_the_Eye_of_the_Beholder.pdf)
 
 **Differential Privacy in Applied Social Science Setting**  
 *(Unpublished Manuscript)* · [**PDF**](../assets/Differential_Privacy_in_Applied_Social_Science.pdf)
